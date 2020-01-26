@@ -1,1 +1,1 @@
-# example-local-storage
+# example-local-storage project
